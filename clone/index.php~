@@ -41,7 +41,7 @@
             </ul></td>
         </tr>
         <tr>
-        	<td>what you waiting for hit it:</td>
+        	<td>what you waiting for :</td>
             <td><input type="submit" value="Hit it."/></td>
         </tr>
     </tbody>
